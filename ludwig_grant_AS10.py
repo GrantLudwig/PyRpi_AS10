@@ -1,3 +1,12 @@
+# File Name: ludwig_grant_AS10.py
+# File Path: /home/ludwigg/Python/PyRpi_AS10/ludwig_grant_AS10.py
+# Run Command: sudo python3 /home/ludwigg/Python/PyRpi_AS10/ludwig_grant_AS10.py
+
+# Grant Ludwig
+# 10/25/2019
+# AS.10
+# Sort 3 numbers
+
 points = 0
 
 def min(num1, i1, num2, i2):
